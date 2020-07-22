@@ -1,0 +1,111 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Roboto', sans-serif;
+    margin: 25px 0;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 28px;
+
+}
+
+h4 {
+    font-size: 26px;
+
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+input[type=text],
+select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=number],
+select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=email],
+select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+}
+
+
+textarea {
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+button {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+}
+
+.wrapper {
+    font-family: 'Roboto', sans-serif;
+    max-width: 100%;
+    padding: 50px;
+    text-align: left;
+}
+
+#main {
+    text-align: center;
+    background-image: url('https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_1280.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: lightsteelblue;
+    font-family: 'Roboto', sans-serif;
+}
+
+#survey-form {
+    width: 70%;
+    margin: 0 auto;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(45deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 5px;
+}
